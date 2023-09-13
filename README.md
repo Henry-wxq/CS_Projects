@@ -20,11 +20,7 @@ In the second night, we when to play the Chinese 8 ball billiards. But my younge
 
 ****
 ## Different_Websites
-### Bilibili
-### Damai
 
 ****
 ## Verification
-### Bilibili
-### Damai
 
