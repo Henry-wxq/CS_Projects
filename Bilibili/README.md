@@ -5,7 +5,7 @@ This file is an introduction for snatching ticket program on [Bilibili](https://
 ****
 ## Content
 * [Environment](#environment)
-  * [macOS](#macos)
+  * [MacOS](#macos)
   * [Windows](#windows)
 * [Bilibili](#bilibili)
 
