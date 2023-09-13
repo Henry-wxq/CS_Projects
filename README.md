@@ -5,8 +5,23 @@ This repository is aimed at showing my method in snatching concert/exhibition ti
 ****
 ## Content
 * [Aspiration](#Aspiration)
-* 
+* [General](#General)
+* [Different_Websites](#Different_Websites)
+* [Verification](#Verification)
 
 ****
 ## Aspiration
+
+****
+## General
+
+****
+## Different_Websites
+### Bilibili
+### Damai
+
+****
+## Verification
+### Bilibili
+### Damai
 
