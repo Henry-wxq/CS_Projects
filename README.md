@@ -5,7 +5,7 @@ This repository is aimed at showing my method in snatching concert/exhibition ti
 ****
 ## Content
 * [Aspiration](#Aspiration)
-* [General](#General)
+* [General_Procedure](#General_Procedure)
 * [Different_Websites](#Different_Websites)
 * [Verification](#Verification)
 
@@ -13,7 +13,7 @@ This repository is aimed at showing my method in snatching concert/exhibition ti
 ## Aspiration
 
 ****
-## General
+## General_Procedure
 
 ****
 ## Different_Websites
