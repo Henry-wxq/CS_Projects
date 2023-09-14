@@ -4,22 +4,15 @@ This file is an introduction for snatching ticket program on [Bilibili](https://
 
 ****
 ## Content
-* [Aspiration](#aspiration)
 * [Environment](#environment)
-  * [macOS](#macos)
+  * [MacOS](#macos)
   * [Windows](#windows)
 * [Bilibili](#bilibili)
-
-
-****
-## Aspiration
-
 
 ****
 ## Environment
 ### macOS
 ### Windows
-
 
 ****
 ## Bilibili
