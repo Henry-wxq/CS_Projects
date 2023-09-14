@@ -30,4 +30,5 @@ Since the program is initially designed for my younger cousin, we will start fro
 
 ****
 ## Verification
+From the experience in daily life, we recognize 90%, there will be a verification action after clicking the login button. Therefore, in order to pass it, we will train our own model based on different websites to recoginze the code and pass the verification.
 
