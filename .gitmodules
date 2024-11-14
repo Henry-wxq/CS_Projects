@@ -1,3 +1,6 @@
 [submodule "Hungreat"]
 	path = Hungreat
 	url = https://github.com/MariaMa-GitHub/Hungreat.git
+[submodule "Student-Performance-Prediction"]
+	path = Student-Performance-Prediction
+	url = git@github.com:Nick-Pestov/Student-Performance-Prediction-and-Analysis-on-Eedi-Platform.git
