@@ -4,3 +4,6 @@
 [submodule "Student-Performance-Prediction"]
 	path = Student-Performance-Prediction
 	url = git@github.com:Nick-Pestov/Student-Performance-Prediction-and-Analysis-on-Eedi-Platform.git
+[submodule "Cocoa_Price_Prediction"]
+	path = Cocoa_Price_Prediction
+	url = git@github.com:Henry-wxq/Cocoa_Price_Prediction.git
