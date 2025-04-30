@@ -7,3 +7,6 @@
 [submodule "Cocoa_Price_Prediction"]
 	path = Cocoa_Price_Prediction
 	url = git@github.com:Henry-wxq/Cocoa_Price_Prediction.git
+[submodule "Fanqie_Crawler"]
+	path = Fanqie_Crawler
+	url = git@github.com:Henry-wxq/Fanqie_Crawler.git
